@@ -1,0 +1,13 @@
+[package]
+name = "epub-char-counter"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.70"
+epub = "2.0.0"
+rayon = "1.7.0"
+regex = "1.7.3"
+tl = "0.7.7"
